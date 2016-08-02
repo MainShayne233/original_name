@@ -1,5 +1,5 @@
-# Original Name
-## Before creating your directory, see how unique the repository name is from the comfort of your command line.
+# original_name
+### Before creating your directory, see how unique the repository name is from the comfort of your command line.
 
 ## Install
 
